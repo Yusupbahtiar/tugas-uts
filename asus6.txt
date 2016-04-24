@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Spesifikasi</title>
+<body>
+<h1><font Color="blue">terimakasih atas kunjungan nya  </font></h1>
+<br>Asus X554LJ – 5200U<br>
+semoga bermanfaat <br>
+mohon maff bila banyak kesalahan
+</body>
+</html>
+
